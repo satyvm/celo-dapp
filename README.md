@@ -2,7 +2,8 @@
 
 A starter pack to get started with building dapps on Celo.
 
-You can view a live version of the template deployed at https://celo-progressive-dapp-starter.netlify.app/.
+You can view a live version of the example Celo App deployed at https://stirring-lebkuchen-6f72a9.netlify.app/.
+
 
 This repo is heavily inspired by [scaffold-eth](https://github.com/scaffold-eth/scaffold-eth).
 
