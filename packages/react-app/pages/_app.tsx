@@ -52,16 +52,11 @@ function MyApp({ Component, pageProps, router }: AppProps): React.ReactElement {
               )}
               <footer style={{ textAlign: "center" }}>
                 <Link
-                  href="https://github.com/celo-org/celo-progressive-dapp-starter"
+                  href="https://github.com/satyvm/celo-dapp"
                   target="_blank"
                 >
+                  <p>My GitHub Repo</p>
                   <Github style={{width: "40px", margin: "5px"}}/>
-                </Link>
-                <Link
-                  href="https://discord.gg/cGCE9p9352"
-                  target="_blank"
-                >
-                  <Discord style={{width: "40px", margin: "5px"}}/>
                 </Link>
               </footer>
             </div>
